@@ -1,4 +1,4 @@
-🎉 Fête Forum
+##🎉 Fête Forum
 
 Plateforme de forum développée en TypeScript, avec un frontend React et un backend Node.js/Express, déployée sur les serveurs Rezel (Télécom Paris).
 
