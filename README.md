@@ -1,12 +1,12 @@
-##🎉 Fête Forum
+# 🎉 Fête Forum
 
-Plateforme de forum développée en TypeScript, avec un frontend React et un backend Node.js/Express, déployée sur les serveurs Rezel (Télécom Paris).
+Plateforme de forum développée en **TypeScript**, avec un **frontend React** et un backend **Node.js/Express**, déployée sur les serveurs **Rezel (Télécom Paris)**.
 
-🚀 Fonctionnalités
+# 🚀 Fonctionnalités
 
-Interface moderne en React + TypeScript
+Interface moderne en **React + TypeScripe**
 
-API backend en Node.js / Express
+API backend en **Node.js / Express**
 
 Gestion des threads, posts et utilisateurs
 
@@ -14,7 +14,7 @@ Connexion sécurisée (authentification)
 
 Hébergement sur l’infrastructure Rezel
 
-🛠️ Stack technique
+# 🛠️ Stack technique
 
 Frontend : React, TypeScript, Vite
 
